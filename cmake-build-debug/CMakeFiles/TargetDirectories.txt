@@ -1,0 +1,3 @@
+C:/Users/Utente/Sasso carta forbici/cmake-build-debug/CMakeFiles/Sasso_carta_forbici.dir
+C:/Users/Utente/Sasso carta forbici/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utente/Sasso carta forbici/cmake-build-debug/CMakeFiles/rebuild_cache.dir
